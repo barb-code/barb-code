@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### - 🔭 I’m currently working on Avanade has an fullstack developer 
+#### - 🔭 I’m currently working on Avanade has an Associeted fullstack developer 
 #### - 📫 How to reach me: https://www.linkedin.com/in/barbara-licia-machado-de-souza-1944b8124/
 
 <!--
