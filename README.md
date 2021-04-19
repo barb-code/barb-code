@@ -2,9 +2,6 @@
 #### - 🔭 I’m currently working on Avanade has an Associeted fullstack developer 
 #### - 📫 How to reach me: https://www.linkedin.com/in/barbara-licia-machado-de-souza-1944b8124/
 
-<!--
-**barb-code/barb-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hey, I'm Malu Duda and you? 👋
 
 Marine biologist, Spreading scientific researcher, Biology teacher and Backend developer. 
@@ -28,5 +25,9 @@ Marine biologist, Spreading scientific researcher, Biology teacher and Backend d
 ## Check my stats here on GitHub:
 
 [![maria-luiza-duda's github stats](https://github-readme-stats.vercel.app/api?username=barb-code&show_icons=true&theme=onedark)](https://github.com/barb-code) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barb-code&layout=compact&theme=onedark)](https://github.com/barb-code)
+<!--
+**barb-code/barb-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 
