@@ -1,16 +1,8 @@
 ### Hi there 👋
-#### - 🔭 I’m currently working on Avanade has an Associeted fullstack developer 
-#### - 📫 How to reach me: https://www.linkedin.com/in/barbara-licia-machado-de-souza-1944b8124/
 
-### Hey, I'm Malu Duda and you? 👋
 
-Marine biologist, Spreading scientific researcher, Biology teacher and Backend developer. 
+### Hey, I'm Babi and you? 👋
 
-- 🔭 I’m currently working on Open Scientia project (check on my repositories)
-- 🌱 I’m currently learning JavaScript, HTML and CSS
-- 💬 Ask me about enviromental issues, astronomy or marine animals
-- 😄 Fav foods to send me: Bolo de rolo, pizza com muito cheddar, bolo de cenoura com chocolate
-- :notes: Fav song of the week: Sol na cara (O leme que te guia) de Guilé
 
 ## You can also found me here:
 
